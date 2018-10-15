@@ -1,8 +1,13 @@
-# Pretty-Json - A command line tool to prettyfy JSON
+# jp: A command line tool to prettyfy JSON
 
 ## Install
 
-    $ git clone 
+    $ git clone https://github.com/Moosemorals/jp.git
+    $ cd jp
+    $ make install
+
+The command `jp` will be installed into `$GOROOT/bin` (assuming the 
+tests pass)
 
 ## Run
 

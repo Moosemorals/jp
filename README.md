@@ -2,7 +2,7 @@
 
 ## Install
 
-    $ go get github.com/moosemorals/pretty-json
+    $ git clone 
 
 ## Run
 
